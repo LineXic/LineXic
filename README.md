@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm LineXic/h1>
+<p align="center">
+  Hi I'm LineXic Chinese name is 文心
 
-<!--
-**LineXic/LineXic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like GitHub and Jekyll,Use Firefox🧑‍💻
 
-Here are some ideas to get you started:
+I like playing badminton 🏸 and running 🏃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am using Hexo to build a blog project
+</p>
+<p align="center">
+  <samp>
+    <a href="https://i.linexic.top">Homepage</a> ·
+    <a href="https://linexic.top">Blog</a> ·
+    <a href="https://chat.linexic.top">ChatAi</a> 
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LineXic&count_private=true">
+</p>

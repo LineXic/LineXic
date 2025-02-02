@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm LineXic/h1>
+<h1 align="center">Hi, I'm LineXi<h1>
 <p align="center">
   Hi I'm LineXic Chinese name is 文心
 

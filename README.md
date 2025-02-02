@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm LineXic</h1>
 <p align="center">
-· 👀Hi I'm LineXic Chinese name is 文心
-
-· 🧑‍💻I like GitHub and Jekyll,Use Firefox
-
-· 🏋️I like playing badminton 🏸 and running 🏃
-
-· 🧘I am using Hexo to build a blog project
+  👀Hi I'm LineXic Chinese name is 文心
+</p>
+<p align="center">
+  🧑‍💻I like GitHub and Jekyll,Use Firefox
+</p>
+<p align="center">
+  🏋️I like playing badminton 🏸 and running 🏃
+  </p>
+<p align="center">
+  🧘I am using Hexo to build a blog project
 </p>
 <p align="center">
   <samp>

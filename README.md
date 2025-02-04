@@ -6,7 +6,7 @@
   🧑‍💻I like GitHub and Jekyll,Use Firefox
 </p>
 <p align="center">
-  🏋️I like playing badminton 🏸 and running 🏃
+  🏋️I like playing badminton 🏸 and running 
   </p>
 <p align="center">
   🧘I am using Hexo to build a blog project

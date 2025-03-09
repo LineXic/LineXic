@@ -19,7 +19,7 @@
   </samp>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LineXic&count_private=true">
-<img src="https://skillicons.dev/icons?i=vue,html,css,js">
-</p>
+<img src="https://skillicons.dev/icons?i=vue,html,css,js,nodejs,npm,pnpm,cloudflare,vercel,astro,tailwind,git,github,powershell,vscode&perline=5">
+</div>
